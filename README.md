@@ -1,6 +1,6 @@
 # Dopamine2-roothide
 
-- Document: https://github.com/RootHide/Developer
+- Document: https://github.com/Aidan1993
 
 - Support: https://twitter.com/X_UX_Y
 
