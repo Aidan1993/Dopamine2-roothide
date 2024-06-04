@@ -4,7 +4,7 @@
 
 - Support: https://twitter.com/X_UX_Y
 
-- Discord: https://discord.com/invite/Aidan
+- Discord: https://discord.gg/CcBeFgjAtX
 
 
 # How To Build tipa file
