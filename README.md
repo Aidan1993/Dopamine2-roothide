@@ -2,7 +2,7 @@
 
 - Document: https://github.com/RootHide/Developer
 
-- Support: https://twitter.com/RootHideDev
+- Support: https://twitter.com/
 
 - Discord: https://discord.com/invite/scqCkumAYp
 
